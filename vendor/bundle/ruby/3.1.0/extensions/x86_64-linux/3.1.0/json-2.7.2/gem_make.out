@@ -1,0 +1,16 @@
+current directory: /home/devilman/Escritorio/Proyectos_RoR/my_app/vendor/bundle/ruby/3.1.0/gems/json-2.7.2/ext/json
+/root/.rbenv/versions/3.1.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/devilman/Escritorio/Proyectos_RoR/my_app/vendor/bundle/ruby/3.1.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240903-5422-hos04j sitelibdir\=./.gem.20240903-5422-hos04j clean
+
+current directory: /home/devilman/Escritorio/Proyectos_RoR/my_app/vendor/bundle/ruby/3.1.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240903-5422-hos04j sitelibdir\=./.gem.20240903-5422-hos04j
+make: No se hace nada para 'all'.
+
+current directory: /home/devilman/Escritorio/Proyectos_RoR/my_app/vendor/bundle/ruby/3.1.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240903-5422-hos04j sitelibdir\=./.gem.20240903-5422-hos04j install
+
+current directory: /home/devilman/Escritorio/Proyectos_RoR/my_app/vendor/bundle/ruby/3.1.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240903-5422-hos04j sitelibdir\=./.gem.20240903-5422-hos04j clean

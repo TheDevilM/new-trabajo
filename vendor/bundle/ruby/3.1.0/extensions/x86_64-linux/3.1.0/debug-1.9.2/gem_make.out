@@ -1,0 +1,19 @@
+current directory: /home/devilman/Escritorio/Proyectos_RoR/my_app/vendor/bundle/ruby/3.1.0/gems/debug-1.9.2/ext/debug
+/root/.rbenv/versions/3.1.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/devilman/Escritorio/Proyectos_RoR/my_app/vendor/bundle/ruby/3.1.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240903-5422-obovq0 sitelibdir\=./.gem.20240903-5422-obovq0 clean
+
+current directory: /home/devilman/Escritorio/Proyectos_RoR/my_app/vendor/bundle/ruby/3.1.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240903-5422-obovq0 sitelibdir\=./.gem.20240903-5422-obovq0
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/devilman/Escritorio/Proyectos_RoR/my_app/vendor/bundle/ruby/3.1.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240903-5422-obovq0 sitelibdir\=./.gem.20240903-5422-obovq0 install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20240903-5422-obovq0/debug
+
+current directory: /home/devilman/Escritorio/Proyectos_RoR/my_app/vendor/bundle/ruby/3.1.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240903-5422-obovq0 sitelibdir\=./.gem.20240903-5422-obovq0 clean
